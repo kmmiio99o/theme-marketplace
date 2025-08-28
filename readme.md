@@ -4,7 +4,7 @@ A curated platform for discovering and sharing beautiful website themes defined 
 
 ## 🌐 Visit Our Website
 
-**Live URL:** https://theme-marketplace.kmmiio99o.workers.dev/
+**Live URL:** https://themes.kmmiio99o.workers.dev/
 
 
 ## 🎯 Why I Created This Platform
