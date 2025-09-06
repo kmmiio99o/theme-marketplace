@@ -1,0 +1,233 @@
+{
+  "name": "Dos.Terminal",
+  "description": "Original theme made by Princeblueblood",
+  "version": "1",
+  "authors": [
+    {
+      "name": "Princeblueblood",
+      "id": "131929165292240896"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#16C60C"
+    ],
+    "HEADER_SECONDARY": [
+      "#13A10E"
+    ],
+    "TEXT_NORMAL": [
+      "#16C60C"
+    ],
+    "TEXT_SECONDARY": [
+      "#16C60C"
+    ],
+    "TEXT_PRIMARY": [
+      "#16C60C"
+    ],
+    "TEXT_MUTED": [
+      "#16C60C"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#16C60C"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#16C60C"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#13A10E"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#16C60C"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#13A10E"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#000000"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#16C60C"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#16C60C"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#4A4A4A35"
+    ],
+    "EMBED_BACKGROUND": [
+      "#000000"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#13A10E30"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#000000"
+    ],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": [
+      "#16C60C"
+    ],
+    "BUTTON_OUTLINE_BRAND_BOARDER": [
+      "#16C60C"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#16C60C"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#000000"
+    ],
+    "ANDROID_RIPPLE": [
+      "#16C60C"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#000000"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#13A10E"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#000000"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#13A10E"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#13A10E"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#16C60C"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#13A10E"
+    ],
+    "TEXT_LINK": [
+      "#13A10E"
+    ],
+    "TEXT_DANGER": [
+      "#13A10E"
+    ],
+    "KEYBOARD": [
+      "#13A10E"
+    ],
+    "CHANNEL_ICON": [
+      "#16C60C"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#000000"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#16C60C"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#000000",
+      "#000000",
+      "#000000"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#16C60C",
+    "PRIMARY_200": "#16C60C",
+    "PRIMARY_230": "#16C60C",
+    "PRIMARY_300": "#13A10E",
+    "PRIMARY_360": "#16C60C",
+    "PRIMARY_400": "#16C60C",
+    "PRIMARY_500": "#16C60C",
+    "PRIMARY_560": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_645": "#000000",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "BRAND_260": "#13A10E",
+    "BRAND_360": "#13A10E",
+    "BRAND_500": "#000000",
+    "BRAND_560": "#000000",
+    "YELLOW_300": "#13A10E",
+    "GREEN_600": "#16C60C",
+    "RED_400": "#16C60C",
+    "WHITE_500": "#13A10E",
+    "WHITE_630": "#16C60C",
+    "GREEN_360": "#16C60C",
+    "PLUM_1": "#13A10E",
+    "PLUM_3": "#16C60C",
+    "PLUM_6": "#16C60C",
+    "PLUM_10": "#16C60C",
+    "PLUM_11": "#000000",
+    "PLUM_15": "#16C60C",
+    "PLUM_16": "#1A1A1A",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_26": "#000000",
+    "PLUM_22": "#000000",
+    "PLUM_24": "#000000"
+  },
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#0f0",
+    "iconpack": "materialtwotone"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "ggsans-Bold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "ggsans-BoldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "ggsans-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "ggsans-Medium": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "ggsans-MediumItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "ggsans-Normal": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "ggsans-NormalItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "ggsans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "NotoSans-Bold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "NotoSans-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "NotoSans-Medium": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "NotoSans-Normal": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "NotoSans-NormalItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "NotoSans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+    "SourceCodePro-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf"
+  },
+  "spec": 2,
+  "createdAt": "2025-09-06",
+  "previewUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/pending/dosterminal-1757162940251-preview.png"
+}
