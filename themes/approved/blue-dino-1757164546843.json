@@ -1,0 +1,293 @@
+{
+  "id": "blue-dino-1757164546843",
+  "filename": "blue-dino-1757164546843.json",
+  "name": "𐌌 blue dino",
+  "description": "Dark and blue gradients with dino wallpaper",
+  "version": "1",
+  "authors": [
+    {
+      "name": "𐌌risky",
+      "id": "1113130615630471290"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#FFFFFF30"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#08080830"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#00a7d240"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#0094ba"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#007fa0"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#000000"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#00a7d2"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#FFFFFF"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#181818"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#0094ba"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#007fa0"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#4A4A4A80"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#181818"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#181818"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#181818"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#000000"
+    ],
+    "BG_BACKDROP": [
+      "#000000"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#090909"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#000000"
+    ],
+    "HOME_BACKGROUND": [
+      "#000000"
+    ],
+    "BORDER_FAINT": [
+      "#006a85"
+    ],
+    "BORDER_STRONG": [
+      "#00566b"
+    ],
+    "BORDER_SUBTLE": [
+      "#0094ba"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#000000"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#000000"
+    ],
+    "CHANNEL_ICON": [
+      "#FFFFFF"
+    ],
+    "EMBED_BACKGROUND": [
+      "#181818D0"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#181818"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#2A2A2A"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#00a7d2"
+    ],
+    "MENTION_BACKGROUND": [
+      "#0094ba"
+    ],
+    "MENTION_FOREGROUND": [
+      "#FFFFFF"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#00566b"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#FFFFFF"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#FFFFFF"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#000000"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#006a85"
+    ],
+    "STATUS_DANGER": [
+      "#00a7d2"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#007fa0"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FFFFFF"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#181818"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#000000"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "#00a7d2"
+    ],
+    "TEXT_LINK": [
+      "#0094ba"
+    ],
+    "TEXT_MUTED": [
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF"
+    ],
+    "TEXT_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "TEXT_SECONDARY": [
+      "#FFFFFF"
+    ],
+    "BG_MOD_FAINT": [
+      "#090909"
+    ],
+    "KEYBOARD": [
+      "#00566b"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_200": "#00a7d2",
+    "PRIMARY_230": "#FFFFFF",
+    "PRIMARY_300": "#FFFFFF",
+    "PRIMARY_500": "#000000",
+    "PRIMARY_600": "#181818",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#0094ba70",
+    "BRAND_260": "#00a7d2",
+    "BRAND_360": "#0094ba",
+    "BRAND_500": "#1A1A1A",
+    "BRAND_560": "#000000",
+    "RED_400": "#303030",
+    "RED_430": "#000000",
+    "GREEN_360": "#007fa0",
+    "GREEN_430": "#000000",
+    "WHITE_500": "#FFFFFF",
+    "BLUE_345": "#00a7d2",
+    "PLUM_1": "#0094ba",
+    "PLUM_3": "#007fa0",
+    "PLUM_6": "#FFFFFF",
+    "PLUM_9": "#006a85",
+    "PLUM_11": "#00566b",
+    "PLUM_13": "#00a7d2",
+    "PLUM_14": "#000000",
+    "PLUM_15": "#202020",
+    "PLUM_16": "#0094ba70",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#020202",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_22": "#18181840",
+    "PLUM_24": "#000000"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-MediumItalic.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-SemiboldItalic.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
+  },
+  "background": {
+    "blur": 2,
+    "url": "https://pomf2.lain.la/f/ci7gbfra.jpg",
+    "OPACITY": 0
+  },
+  "plus": {
+    "version": "0",
+    "iconPack": "rosiecord-plumpy",
+    "mentionLineColor": "#00a7d2",
+    "customOverlays": true,
+    "icons": {
+      "trash": "#0094ba",
+      "TrashIcon": "#0094ba",
+      "TriangleExclamationPointIcon": "#007fa0",
+      "toast_copy_link": "#00a7d2",
+      "toast_copy_message": "#feffff",
+      "toast_image_saved": "#feffff"
+    }
+  },
+  "spec": 2,
+  "createdAt": "2025-09-06",
+  "previewUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/pending/blue-dino-1757164546843-preview.png"
+}
