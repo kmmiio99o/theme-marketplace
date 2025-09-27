@@ -94,5 +94,11 @@
     "description": "blue based on material you :3",
     "authors": ["dor4a #avtvshutup"],
     "installUrl": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouBlue/YouBlue.json"
+  },
+  {
+    "name": "puhbuAMOLEDTEST",
+    "description": "puhrple AMOLEDTEST, Themes+ support; Midnight Theme recommended; V1.3b",
+    "authors": ["puhbu"],
+    "installUrl": "https://raw.githubusercontent.com/puhbu/Themes/main/puhbuAMOLEDTEST.json"
   }
 ]
