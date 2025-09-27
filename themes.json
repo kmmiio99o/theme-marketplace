@@ -1,0 +1,98 @@
+[
+  {
+    "name": "𐌌 blue dino",
+    "description": "Dark and blue gradients with dino wallpaper",
+    "authors": ["𐌌risky"],
+    "installUrl": "https://github.com/Ulk518/Blue-black-dino/raw/refs/heads/main/Blue&Black%20dino"
+  },
+  {
+    "name": "Clear Vision",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "authors": ["Taki_Shiwa, edited by Sunny"],
+    "installUrl": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/ClearVision.json"
+  },
+  {
+    "name": "Cyberpunk 2077",
+    "description": "Theme built around Cyberpunk 2077 HUD",
+    "authors": ["Shion"],
+    "installUrl": "https://raw.githubusercontent.com/luzikii/vendetta/main/CP2077HUD.json"
+  },
+  {
+    "name": "Dark Blossom",
+    "description": "A beautiful dark blossom pink theme, made for people who love blossom but prefer a darker interface.",
+    "authors": ["kmmiio99o"],
+    "installUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/refs/heads/main/themes/approved/dark-blossom-1756299787345.json"
+  },
+  {
+    "name": "Dos.Terminal",
+    "description": "Original theme made by Princeblueblood",
+    "authors": ["Princeblueblood"],
+    "installUrl": "https://raw.githubusercontent.com/mysticentity/ThemeStrings/main/DosTerminal.json"
+  },
+  {
+    "name": "Light Blossom",
+    "description": "A beautiful light blossom pink theme, made for people who love blossom but prefer a brighter interface.",
+    "authors": ["kmmiio99o"],
+    "installUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/refs/heads/main/themes/approved/light-blossom-1756299765934.json"
+  },
+  {
+    "name": "Midnight Vencord",
+    "description": "Based on Midnight Vencord by refact0r",
+    "authors": ["kmmiio99o"],
+    "installUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/refs/heads/main/themes/approved/midnight-vencord-1756294017700.json"
+  },
+  {
+    "name": "Nightshade",
+    "description": "Clean, midnight-purple aesthetic",
+    "authors": ["Fizz"],
+    "installUrl": "https://raw.githubusercontent.com/fizzvrdev/themesforkettu/refs/heads/main/Nightshade.json"
+  },
+  {
+    "name": "Pastel Blue",
+    "description": "A sleek clean blue theme designed for kettu",
+    "authors": ["Fizz"],
+    "installUrl": "https://raw.githubusercontent.com/fizzvrdev/themesforkettu/refs/heads/main/PastelBlue.json"
+  },
+  {
+    "name": "Pure Black 1.5D",
+    "description": "AMOLED black theme",
+    "authors": ["breadcat0314"],
+    "installUrl": "https://raw.githubusercontent.com/breadcat0314/discord-themes/refs/heads/main/AMOLED.json"
+  },
+  {
+    "name": "Purple Serenity",
+    "description": "Purple Serenity blends bright pinks & dark purples for a relaxing, elegant atmosphere.",
+    "authors": ["Cyclone"],
+    "installUrl": "https://raw.githubusercontent.com/Gansing/discord-stuff/refs/heads/main/Purple-Serenity.json"
+  },
+  {
+    "name": "RBW AMOLED",
+    "description": "AMOLED black base, using red, white & grey for everything else",
+    "authors": ["im__turbo__"],
+    "installUrl": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Themes/DARK/RBW%20AMOLED.json"
+  },
+  {
+    "name": "RosieDark",
+    "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3",
+    "authors": ["Rairof"],
+    "installUrl": "https://raw.githubusercontent.com/Rairof/Discord-Theme/main/RosieDark.json"
+  },
+  {
+    "name": "Tenka Izumo",
+    "description": "Discord Mobile Theme based on Tenka Izumo character from \"Mato Seihei no Slave\" anime. Idea by doomslayer_38",
+    "authors": ["kmmiio99o"],
+    "installUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/refs/heads/main/themes/approved/tenka-izumo-1756299746614.json"
+  },
+  {
+    "name": "Ukiyo",
+    "description": "Living in the moment",
+    "authors": ["ft.vodka"],
+    "installUrl": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Ukiyo.json"
+  },
+  {
+    "name": "YouBlue",
+    "description": "blue based on material you :3",
+    "authors": ["dor4a #avtvshutup"],
+    "installUrl": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouBlue/YouBlue.json"
+  }
+]
