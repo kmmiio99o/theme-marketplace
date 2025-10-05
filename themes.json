@@ -100,5 +100,11 @@
     "description": "puhrple AMOLEDTEST, Themes+ support; Midnight Theme recommended; V1.3b",
     "authors": ["puhbu"],
     "installUrl": "https://raw.githubusercontent.com/puhbu/Themes/main/puhbuAMOLEDTEST.json"
+  },
+  {
+    "name": "Ataraxia",
+    "description": "A state of serene calmness",
+    "authors": ["ft.vodka"],
+    "installUrl": "https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Ataraxia.json"
   }
 ]
