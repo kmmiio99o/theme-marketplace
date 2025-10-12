@@ -106,5 +106,11 @@
     "description": "A state of serene calmness",
     "authors": ["ft.vodka"],
     "installUrl": "https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Ataraxia.json"
+  },
+  {
+    "name": "AMOLED Anime Theme",
+    "descriptio": "AMOLED Rem theme",
+    "authors": ["wiwiichan"],
+    "installUrl": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/amoled-anime-theme.json"
   }
 ]
