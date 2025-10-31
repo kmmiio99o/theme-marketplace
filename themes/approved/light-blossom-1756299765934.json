@@ -11,11 +11,14 @@
     }
   ],
   "semanticColors": {
+    "PANEL_BG": [
+      "#f9eaef"
+    ],
     "ANDROID_RIPPLE": [
       "#f8c8dc"
     ],
     "CHAT_BACKGROUND": [
-      "#fef6fb"
+      "#f9eaef"
     ],
     "BACKGROUND_ACCENT": [
       "#ffb6d5"
@@ -60,7 +63,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#ffffff"
+      "#f9eaef"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#fef6fb"
@@ -78,7 +81,7 @@
       "hsla(333, 70%, 85%, 0.5)"
     ],
     "BACKGROUND_PRIMARY": [
-      "#ffffff"
+      "#f9eaef"
     ],
     "BACKGROUND_SECONDARY": [
       "#fef6fb"
@@ -90,7 +93,7 @@
       "#f2d4e1"
     ],
     "BG_BASE_PRIMARY": [
-      "#ffffff"
+      "#f9eaef"
     ],
     "BG_BACKDROP": [
       "#ffffffb2"
