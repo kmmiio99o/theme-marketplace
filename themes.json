@@ -112,5 +112,11 @@
     "description": "AMOLED Rem theme",
     "authors": ["wiwiichan"],
     "installUrl": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/amoled-anime-theme.json"
+  },
+  {
+    "name": "Pyontheme",
+    "description": "Theme about Pyoncord (real and true)",
+    "authors": ["rennpy (LampDelivery)"],
+    "installUrl": "https://raw.githubusercontent.com/LampDelivery/pyontheme/refs/heads/main/pyontheme.json"
   }
 ]
