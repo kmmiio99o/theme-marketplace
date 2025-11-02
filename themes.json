@@ -111,7 +111,8 @@
     "name": "AMOLED Anime Theme",
     "description": "AMOLED Rem theme",
     "authors": ["wiwiichan"],
-    "installUrl": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/amoled-anime-theme.json"
+    "installUrl": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/amoled-anime-theme.json",
+    "imageUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/approved/amoled-anime-theme-1760257323881-preview.png"
   },
   {
     "name": "Pyontheme",
