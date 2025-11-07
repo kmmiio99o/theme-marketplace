@@ -119,5 +119,11 @@
     "description": "Theme about Pyoncord (real and true)",
     "authors": ["rennpy (LampDelivery)"],
     "installUrl": "https://raw.githubusercontent.com/LampDelivery/pyontheme/refs/heads/main/pyontheme.json"
+  },
+  {
+    "name": "SkyMoled v1.0",
+    "description": "Amoled theme with sky and forest background",
+    "authors": ["razeN"],
+    "installUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/approved/skymoled-v10-1762514196654.json"
   }
 ]
