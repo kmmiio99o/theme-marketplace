@@ -125,5 +125,11 @@
     "description": "Amoled theme with sky and forest background",
     "authors": ["razeN"],
     "installUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/approved/skymoled-v10-1762514196654.json"
+  },
+  {
+    "name": "Aetheris",
+    "description": "A Comfy Dark Purple Theme",
+    "authors": ["AsterionVT"],
+    "installUrl": "https://raw.githubusercontent.com/AsterionXeity/Aetheris/refs/heads/main/Aetheris.json"
   }
 ]
