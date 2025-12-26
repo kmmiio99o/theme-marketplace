@@ -131,5 +131,29 @@
     "description": "A Comfy Dark Purple Theme",
     "authors": ["AsterionVT"],
     "installUrl": "https://raw.githubusercontent.com/AsterionXeity/Aetheris/refs/heads/main/Aetheris.json"
+  },
+  {
+    "name": "Glorious Sunset",
+    "description": "Gruvbox-based theme for Revenge.",
+    "authors": ["myxi"],
+    "installUrl": "https://raw.githubusercontent.com/eeriemyxi/glorious-sunset/refs/heads/main/theme.json"
+  },
+  {
+    "name": "Rosie Blue",
+    "description": "Blue rosie theme",
+    "authors": ["Mudrhiod"],
+    "installUrl": "https://bunny.mudaranrhiod.xyz/rosieblue.json"
+  },
+  {
+    "name": "A Deep Commitment to Blurple",
+    "description": "A darker theme with blurple hues.",
+    "authors": ["maisymoe", "King_Cube"],
+    "installUrl": "https://raw.githubusercontent.com/kingofcube/vdthemes/main/BlurpleTheme.json"
+  },
+  {
+    "name": "surDetta",
+    "description": "surCord ported to Vendetta",
+    "authors": ["mcbuildMnemon", "hamhimstudio", "Luz"],
+    "installUrl": "https://q7tech.github.io/vendetta-theme/surDetta.json"
   }
 ]
