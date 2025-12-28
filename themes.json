@@ -145,12 +145,6 @@
     "installUrl": "https://bunny.mudaranrhiod.xyz/rosieblue.json"
   },
   {
-    "name": "A Deep Commitment to Blurple",
-    "description": "A darker theme with blurple hues.",
-    "authors": ["maisymoe", "King_Cube"],
-    "installUrl": "https://raw.githubusercontent.com/kingofcube/vdthemes/main/BlurpleTheme.json"
-  },
-  {
     "name": "surDetta",
     "description": "surCord ported to Vendetta",
     "authors": ["mcbuildMnemon", "hamhimstudio", "Luz"],
