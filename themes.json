@@ -12,6 +12,12 @@
     "installUrl": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/ClearVision.json"
   },
   {
+    "name": "Cutie Rikka",
+    "description": "Cute Rikka ෆ⁠╹⁠ ⁠.̮⁠ ⁠╹⁠ෆ Copyright ©Kyoto Anime 2026",
+    "authors": ["1f8r-ruru"]
+    "installUrl": "https://raw.githubusercontent.com/ruruyaa/rikka_theme/main/rikka-theme.json"
+  },
+  {
     "name": "Cyberpunk 2077",
     "description": "Theme built around Cyberpunk 2077 HUD",
     "authors": ["Shion"],
