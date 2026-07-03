@@ -18,6 +18,12 @@
     "installUrl": "https://raw.githubusercontent.com/ruruyaa/rikka_theme/main/rikka-theme.json"
   },
   {
+    "name": "Love Chunnibiyo",
+    "description": "This theme mirrors the silent echoes between two souls—where one breaks free from the past, and the other builds the courage to exist in the present.",
+    "authors": ["1f8r-ruru"],
+    "installUrl": "https://raw.githubusercontent.com/ruruyaa/love-chunnibiyo-theme/main/lovechu.json"
+  },
+  {
     "name": "Cyberpunk 2077",
     "description": "Theme built around Cyberpunk 2077 HUD",
     "authors": ["Shion"],
